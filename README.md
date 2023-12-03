@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuripiresg&label=Profile%20views&color=0e75b6&style=flat" alt="yuripiresg" /> </p>
 
-- 🔭 I’m currently working on [FitBro](https://github.com/YuriPiresG/fit-bro-server)
 
 - 🌱 I’m currently learning **NestJs and React**
 
