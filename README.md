@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yuripiresg&show_icons=true&locale=en" alt="yuripiresg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuripiresg&" alt="yuripiresg" /></p>
+
+<a href="https://app.daily.dev/isiliath"><img src="https://api.daily.dev/devcards/v2/KkmFqbG22xiT4keeVbtOA.png?r=zuv&type=default" width="356" alt="Yuri Pires Gonçalves's Dev Card"/></a>
