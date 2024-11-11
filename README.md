@@ -27,5 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuripiresg&" alt="yuripiresg" /></p>
 
-<a href="https://app.daily.dev/isiliath"><img src="./devcard.png" width="356" alt="Yuri's Dev Card"/></a>
+<a href="https://app.daily.dev/isiliath"><img src="./devcard.png" width="356" alt="Yuri Pires's Dev Card"/></a>
 
