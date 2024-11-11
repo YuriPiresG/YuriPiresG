@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuripiresg&label=Profile%20views&color=0e75b6&style=flat" alt="yuripiresg" /> </p>
 
-![Dev Card](./devcard.png)
+<img src="./devcard.png" alt="Dev Card" width="400" height="300">
 
 - 👨‍💻 All of my projects are available at [https://github.com/YuriPiresG](https://github.com/YuriPiresG)
 
